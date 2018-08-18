@@ -1,0 +1,42 @@
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\Editor de textos.exe.config
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\Editor de textos.exe
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\Editor de textos.pdb
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.csprojResolveAssemblyReference.cache
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Ventana1.resources
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Properties.Resources.resources
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.csproj.GenerateResource.Cache
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.csproj.CoreCompileInputs.cache
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.exe
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.pdb
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\es-419\Editor de textos.resources.dll
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Ventana1.es-419.resources
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\es-419\Editor de textos.resources.dll
+C:\Users\Rond\Desktop\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Form2.resources
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\Editor de textos.exe.config
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\Editor de textos.exe
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\Editor de textos.pdb
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\es-419\Editor de textos.resources.dll
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.csprojResolveAssemblyReference.cache
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Ventana1.resources
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Form2.resources
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Properties.Resources.resources
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Ventana1.es-419.resources
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.csproj.GenerateResource.Cache
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.csproj.CoreCompileInputs.cache
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\es-419\Editor de textos.resources.dll
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.exe
+C:\Users\Rond\Desktop\R1-2018\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.pdb
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\Editor de textos.exe.config
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\Editor de textos.exe
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\Editor de textos.pdb
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\bin\Debug\es-419\Editor de textos.resources.dll
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.csprojResolveAssemblyReference.cache
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Ventana1.resources
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Form2.resources
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Properties.Resources.resources
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor_de_textos.Ventana1.es-419.resources
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.csproj.GenerateResource.Cache
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.csproj.CoreCompileInputs.cache
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\es-419\Editor de textos.resources.dll
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.exe
+C:\Users\Rond\3D Objects\Rond(univ.)\R1-2018\Programacion II\Carpeta EditorTexto\Editor de textos\Editor de textos\obj\Debug\Editor de textos.pdb
